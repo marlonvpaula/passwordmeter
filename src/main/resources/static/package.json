@@ -1,0 +1,11 @@
+{
+  "name": "passwordmeter",
+  "version": "1.0.0",
+  "description": "Test in DB1 of passwordmeter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marlonvpaula@gmail.com",
+  "license": "ISC"
+}
